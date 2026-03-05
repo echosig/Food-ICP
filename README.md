@@ -67,9 +67,10 @@ eval_results/
 ```
 部分测试结果如下：
 ### 1、模型输出聚类图
-
+<img width="400" height="300" alt="模型输出聚类图" src="https://github.com/user-attachments/assets/82ffdf55-19b6-4e28-a597-d6e62f376b28" />
 ### 2、average_PR_curve
-
+<img width="640" height="480" alt="average_PR_curve" src="https://github.com/user-attachments/assets/c8f25717-a063-4ce8-adcc-d29034770f54" />
 ### 3、average_ROC_curve
-
+<img width="640" height="480" alt="average_ROC_curve" src="https://github.com/user-attachments/assets/86c35655-7add-4f6e-99c1-6ac1b2471169" />
 ### 4、Confusion matrix
+![Confusion matrix](https://github.com/user-attachments/assets/528ce3b7-264c-4502-bbc3-218c4c6f3862)
